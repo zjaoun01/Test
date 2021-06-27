@@ -6,7 +6,7 @@ using System.Net.Mail;
 using System.Text.RegularExpressions;
 
 // Author: Zackery Jaouni
-// Last updated: 6/26/2021
+// Last updated: 6/27/2021
 // Description: Attempts to parse an XML file for email address and
 // seperates the valid and invalid email addresses into seperate lists
 namespace XML_Technical_Assignment
